@@ -1,0 +1,1 @@
+import{V as i}from"./index-a2cde0ca.js";const s={getBaseInfo:t=>i.get("/statistic/base",{params:t}),getChatStatistic:t=>i.get("/statistic/chatStatistic",{params:t}),getBaiduVisit:t=>i.get("/statistic/baiduVisit",{params:t})};export{s as default};

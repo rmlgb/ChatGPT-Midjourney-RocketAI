@@ -1,0 +1,1 @@
+import{V as t}from"./index-a2cde0ca.js";class r{static async list(){return t.get("/modelCategories/admin")}static add(e){return t.post("/modelCategories",e)}static del(e){return t.delete(`/modelCategories/${e}`)}static update(e){return t.put(`/modelCategories/${e.id}`,e)}}export{r as a};

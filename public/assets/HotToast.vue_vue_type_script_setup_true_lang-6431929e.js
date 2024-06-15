@@ -1,0 +1,1 @@
+import{d as s,K as a,v as t,o,c as n,f as r}from"./index-62750275.js";const e=["innerHTML"],i=s({__name:"HotToast",props:{msg:{}},setup(s){const i=a(),p=t((()=>i.globalConfig));return(s,a)=>(o(),n("div",{class:"wish-b p-3 text-[13px] bg-[#F7F7FA] dark:bg-[#353944] dark:text-[white] primaryRadius font-[600]",innerHTML:s.msg||r(p).mjNoticeInfo},null,8,e))}});export{i as _};

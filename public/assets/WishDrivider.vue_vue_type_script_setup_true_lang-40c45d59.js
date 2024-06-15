@@ -1,0 +1,1 @@
+import{d as s,u as r,o,c as e,n as a,M as d,f as p}from"./index-62750275.js";const c=s({__name:"WishDrivider",props:{dashed:{type:Boolean},color:{}},setup(s){const c=r();return(s,r)=>(o(),e("hr",{class:a(["primaryRadius m-[12px] !px-0 !mx-0 border-[]",[{"border-dashed":s.dashed}]]),style:d({"border-color":s.color||p(c)?"#1C1E24":"#ebecf5"})},null,6))}});export{c as _};
